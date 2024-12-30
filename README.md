@@ -1,7 +1,8 @@
 ## For Use This Configuration on `Linux or Mac OS` :
   
 ### 1_ Install nvim with this command :
-    Debian / Ubuntu : `sudo apt install nvim`
+Debian / Ubuntu : 
+    `sudo apt install nvim`
                         OR 
 Install with snap for all Linux distros : `sudo snap install nvim --classic`
                         OR
