@@ -23,29 +23,5 @@ Install with Flathub for Linux distros: `flatpak install flathub io.neovim.nvim`
 
 for more Help, you can see this Tree map : 
 
-.
-├── after
-│   └── plugin
-│       ├── autopairs.rc.lua
-│       ├── bufferline.rc.lua
-│       ├── cmp.rc.lua
-│       ├── colorizer.rc.lua
-│       ├── lspkind.rc.lua
-│       ├── lualine.rc.lua
-│       ├── neosolarized.rc.lua
-│       ├── null-ls.rc.lua
-│       ├── prettier.rc.lua
-│       ├── telescope.rc.lua
-│       ├── treesitter.rc.lua
-│       └── ts-autotag.rc.lua
-├── init.lua
-├── lua
-│   ├── base.lua
-│   ├── highlights.lua
-│   ├── maps.lua
-│   └── plugins.lua
-└── plugin
-    ├── lspconfig.rc.lua
-    ├── lspsage.rc.lua
-    ├── packer_compiled.lua
-    └── web-devicons.rc.lua
+![image](https://github.com/user-attachments/assets/c7cb13da-2bd6-4a6b-8f0b-67f45feb230e)
+
