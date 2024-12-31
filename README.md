@@ -19,7 +19,7 @@ Install with Flathub for Linux distros: `flatpak install flathub io.neovim.nvim`
 
 ### 2_ Just Copy this Repo into : `~/.config/nvim`
 
-### 3_ Update all Plugins in nvim : `:PackerSync`
+### 3_ Update all Plugins in nvim : `:PackerInstall` and `:PackerSync`  
 
 for more Help, you can see this Tree map : 
 
